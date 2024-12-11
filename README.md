@@ -4,8 +4,7 @@ The experiments use the Drone Vehicle and AVIID dataset. The **Drone Vehicle dat
 # **BaiduYun:**
 **Drone Vehicle**
 
-### Train (code: 73t7)
-- [Download from Baidu Cloud (提取码: 73t7)](https://pan.baidu.com/s/1bwbwYPP0vih1EdA5SDzJMg)
+- [Train (code: 73t7)](https://pan.baidu.com/s/1bwbwYPP0vih1EdA5SDzJMg)
 
 Test (code:tqwc)
 
