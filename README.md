@@ -6,11 +6,12 @@ The experiments use the Drone Vehicle and AVIID dataset. The **Drone Vehicle dat
 
 - [Train (code: 73t7)](https://pan.baidu.com/s/1bwbwYPP0vih1EdA5SDzJMg)
 
-Test (code:tqwc)
+- [Test (code: dncw)](https://pan.baidu.com/s/1rQzVHjvcKlaaiky7ejBYgg)
 
 **AVIID**
 
-Train (code:ngar)
+- [Train (code: jdiv)](https://pan.baidu.com/s/14ByRdd4ih1vSsbOIP8e55A)
 
-Test (code:tqwc)
+- [Test (code: 3gju)](https://pan.baidu.com/s/1GRjo-uWYIoaZhx3_h2wBNQ)
+
 
