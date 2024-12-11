@@ -6,3 +6,5 @@ python train_new.py --train_path 数据路径 --result_pth 结果保存 --pathsi
 python test_bigimg.py --weights_file 权重文件路径 --patchsize 32或者64 --input_dir 测试数据路径  --output_dir 结果保存路径
 
 其中patchsize训练和测试的时候大小要对应
+
+**Download links for the Drone Vehicle and AVIID datasets**
